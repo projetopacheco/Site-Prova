@@ -1,0 +1,29 @@
+body{
+    background-color: burlywood;
+    text-align: center;
+
+}
+
+p{
+    color: rgb(99, 35, 35);
+    font-size: 2em;
+}
+
+h1,h2,{
+
+
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+}
+
+.img_topo{
+    width: 70%;
+
+}
+
+.img_corpo{
+    width: 50%;
+}
